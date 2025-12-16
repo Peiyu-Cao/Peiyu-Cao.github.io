@@ -31,21 +31,7 @@ I am interested in understanding healthcare access disparities, studying barrier
 
 ## 📖 Education
 
-### Programming & Statistical Analysis
-<p align="left">
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata" width="40" height="40"/>
-</p>
-
-### Languages
-- 🇬🇧 **English**: CET-6 (College English Test Band 6)
-- 🇨🇳 **Chinese**: Native
-
----
-
-
-## ✍️ Languages and Tools  
+🎓 **Ph.D. in Social Medicine and Health Management**  
 [School of Public Health, Peking University](https://sph.pku.edu.cn/)  
 *2025 - Present*
 
