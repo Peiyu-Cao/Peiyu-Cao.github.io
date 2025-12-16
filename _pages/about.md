@@ -29,28 +29,23 @@ I am interested in understanding healthcare access disparities, studying barrier
 
 ---
 
-## 🌱 Long-term Vision
-
-I aspire to become a researcher who deeply understands health economics, policy evaluation, and healthcare systems. My goal is to conduct cutting-edge research that contributes to evidence-based healthcare policy making, ultimately helping to improve healthcare access and outcomes for all, and bringing broader benefits to society.
-
----
-
-## 💬 Connect with me
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6854-2880)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Peiyu-Cao)
-
----
-
-## 💭 Quote
-
-*"Do or do not. There is no try."* — Yoda
-
----
-
 ## 📖 Education
 
-🎓 **Ph.D. in Social Medicine and Health Management**  
+### Programming & Statistical Analysis
+<p align="left">
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata" width="40" height="40"/>
+</p>
+
+### Languages
+- 🇬🇧 **English**: CET-6 (College English Test Band 6)
+- 🇨🇳 **Chinese**: Native
+
+---
+
+
+## ✍️ Languages and Tools  
 [School of Public Health, Peking University](https://sph.pku.edu.cn/)  
 *2025 - Present*
 
@@ -68,8 +63,22 @@ I aspire to become a researcher who deeply understands health economics, policy 
 
 ---
 
-## 📝 Publications
+## ✍️ Languages and Tools
 
+### Programming & Statistical Analysis
+<p align="left">
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata" width="40" height="40"/>
+</p>
+
+### Languages
+- 🇬🇧 **English**: CET-6 (College English Test Band 6)
+- 🇨🇳 **Chinese**: Native
+
+---
+
+## 📝 Publications
 
 **Yu-xiao Zhang\*, Pei-yu Cao, Jie-jie Meng, Jiu-yun Qiu, Qi-wen Hu**. Strategies and implications for improving the cure rate of Novel Coronavirus Pneumonia in Wuhan. *[J] Journal of Global Health* 2020, 10: 020302 (7 pages)
 
@@ -105,3 +114,22 @@ I aspire to become a researcher who deeply understands health economics, policy 
 **China Elderly Psychological Health Level Survey Research**  
 *Core Participant*  
 - Responsible for questionnaire development, data collection and processing
+
+---
+
+## 🌱 Long-term Vision
+
+I aspire to become a researcher who deeply understands health economics, policy evaluation, and healthcare systems. My goal is to conduct cutting-edge research that contributes to evidence-based healthcare policy making, ultimately helping to improve healthcare access and outcomes for all, and bringing broader benefits to society.
+
+---
+
+## 💬 Connect with me
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6854-2880)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Peiyu-Cao)
+
+---
+
+## 💭 Quote
+
+*"Do or do not. There is no try."* — Yoda
