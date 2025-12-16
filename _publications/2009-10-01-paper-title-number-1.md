@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Strategies and implications for improving the cure rate of Novel Coronavirus Pneumonia in Wuhan"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-10-01-covid-cure-rate-wuhan
+excerpt: 'This paper discusses strategies for improving the cure rate of Novel Coronavirus Pneumonia in Wuhan during the COVID-19 pandemic.'
+date: 2020-10-01
+venue: 'Journal of Global Health'
+paperurl: 'https://doi.org/10.7189/jogh.10.020302'
+citation: 'Yu-xiao Zhang*, Pei-yu Cao, Jie-jie Meng, Jiu-yun Qiu, Qi-wen Hu. (2020). &quot;Strategies and implications for improving the cure rate of Novel Coronavirus Pneumonia in Wuhan.&quot; <i>Journal of Global Health</i>. 10: 020302 (7 pages).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This research examines strategies and their implications for improving the cure rate of Novel Coronavirus Pneumonia in Wuhan during the early stages of the COVID-19 pandemic.
