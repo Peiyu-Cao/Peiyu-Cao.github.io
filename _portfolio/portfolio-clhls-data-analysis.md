@@ -1,6 +1,6 @@
 ---
 title: "中国老年健康纵向数据分析：高血压筛查效应与机器学习预测"
-excerpt: "基于CLHLS 2011-2014纵向数据的断点回归因果推断和多种机器学习模型预测分析<br/><img src='/images/clhls_analysis_thumbnail.png'>"
+excerpt: "基于CLHLS 2011-2014纵向数据的断点回归因果推断和多种机器学习模型预测分析<br/><img src='/images/figure2_rdd_plot.png'>"
 collection: portfolio
 ---
 
