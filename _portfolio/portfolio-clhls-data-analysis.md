@@ -627,10 +627,10 @@ def generate_latex_table(df, caption, label):
 
 ---
 
-**项目时间**：2024年秋季学期  
-**课程**：北京大学定量研究方法  
+**项目时间**：2025年秋季学期  
+**课程**：北京大学Python编程（2025秋） 
 **代码量**：2700+行Python代码  
 **成果**：完整的研究报告（LaTeX格式）+ 可复现的Jupyter Notebook
 
-**联系方式**：2511110239@stu.pku.edu.cn  
+**联系方式**：cpy@stu.pku.edu.cn  
 **GitHub**: [项目代码库](https://github.com/Peiyu-Cao)
